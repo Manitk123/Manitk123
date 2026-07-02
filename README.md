@@ -111,7 +111,7 @@
 ## `📊 ~/github-stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manitk123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manitk123&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
   <img height="180" src="https://streak-stats.demolab.com?user=Manitk123&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B6B&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" alt="Streak Stats" />
 </div>
@@ -119,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manitk123&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manitk123&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
