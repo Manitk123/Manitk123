@@ -35,7 +35,7 @@
 <!-- ══════════════════════ TYPING SVG ══════════════════════ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&random=false&width=650&lines=Building+Secure+Software+Solutions+%F0%9F%94%90;250%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Malware+Analysis+%26+Reverse+Engineering+%F0%9F%94%AC;Full-Stack+%7C+Cybersecurity+%7C+AI%2FML+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&random=false&width=650&lines=Building+Secure+Software+Solutions+%F0%9F%94%90;350%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Malware+Analysis+%26+Reverse+Engineering+%F0%9F%94%AC;Full-Stack+%7C+Cybersecurity+%7C+AI%2FML+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
