@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/manit-kumar-06b907288">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="[https://manitk123.github.io/portfolio2/](https://portfolio2-five-psi-44.vercel.app/)">
+  <a href="https://portfolio2-five-psi-44.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/Chicha_Badmaash/">
