@@ -58,7 +58,7 @@
   📍  Location     Greater Noida, India
   🎯  Graduation   2027
   💼  Experience   2 Professional Internships
-  🏆  LeetCode     250+ Problems Solved
+  🏆  LeetCode     400+ Problems Solved
   📝  Research     Transformer-Based HIDS (Under Review)
 
   Currently Hacking On:
